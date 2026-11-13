@@ -1,0 +1,4 @@
+# No external third-party packages are strictly required!
+# The bot runs out-of-the-box on Python 3.10+ (including Python 3.14) using standard library modules.
+# Optional dev/testing tools:
+pytest>=8.0.0

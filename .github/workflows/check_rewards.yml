@@ -1,0 +1,54 @@
+name: Check LEGO Insiders Rewards
+
+on:
+  schedule:
+    # Check every 15 minutes throughout the day
+    - cron: "*/15 * * * *"
+    # Extra checks right after midnight CET/CEST (22:00 UTC / 23:00 UTC / 00:00 UTC) when new rewards go live
+    - cron: "1,5 22,23,0 * * *"
+  workflow_dispatch: # Allows triggering a check manually from the GitHub Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lego-rewards-monitor
+  cancel-in-progress: false
+
+jobs:
+  check-rewards:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run LEGO Insiders Rewards check
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          LEGO_LOCALE: ${{ vars.LEGO_LOCALE || 'en-PL' }}
+          TIMEZONE: ${{ vars.TIMEZONE || 'Europe/Warsaw' }}
+          NOTIFY_ON_FIRST_RUN: "true"
+        run: python3 bot.py --once
+
+      - name: Save updated reward state if changed
+        run: |
+          if [ -f data/rewards_state.json ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data/rewards_state.json
+            if ! git diff --staged --quiet; then
+              git commit -m "chore(state): update tracked LEGO Insiders rewards [skip ci]"
+              git pull --rebase origin "${GITHUB_REF_NAME}" || true
+              git push
+            else
+              echo "No changes in LEGO rewards catalog state."
+            fi
+          fi
