@@ -276,6 +276,8 @@ class RewardItem:
     def from_graphql(cls, raw: dict[str, Any], locale: str = "en-PL") -> RewardItem:
         images = raw.get("images") or []
         image_url = images[0].get("url") if images else None
+        if image_url and "lego.com/cdn/" in image_url and "?" not in image_url:
+            image_url = f"{image_url}?fit=bounds&quality=85&width=800&height=800&dpr=1"
 
         redemption_limits = raw.get("redemptionLimits") or {}
         overview_steps: list[str] = []
