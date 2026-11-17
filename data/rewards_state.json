@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at": "2026-11-17T04:04:50.666963+00:00",
+  "last_checked_at": "2026-11-17T13:24:47.467052+00:00",
   "last_update_id": 731644027,
   "chat_ids": [
     "196462642"
@@ -1669,6 +1669,32 @@
       "url": "https://www.lego.com/en-pl/reward/lego-dreamzzz-glowinthedark-stickers-4c7be5gybo",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
       "updated_at": "2026-11-17T04:04:50.666963+00:00"
+    },
+    "p1lxqzp524": {
+      "reward_id": "p1lxqzp524",
+      "title": "500 Points for 100 Points",
+      "point_value": 100,
+      "lifecycle": "STARTING_SOON",
+      "in_stock": true,
+      "quantity": 100,
+      "start_date": "2026-11-27T00:00:00+00:00",
+      "end_date": "2026-11-30T23:59:59+00:00",
+      "url": "https://www.lego.com/en-pl/reward/500-points-for-100-points-emea-p1lxqzp524",
+      "first_seen_at": "2026-11-17T13:24:47.467052+00:00",
+      "updated_at": "2026-11-17T13:24:47.467052+00:00"
+    },
+    "1b09e5i8aa": {
+      "reward_id": "1b09e5i8aa",
+      "title": "Botanical Collection Art Print – Wildflower Bouquet",
+      "point_value": 400,
+      "lifecycle": "STARTING_SOON",
+      "in_stock": true,
+      "quantity": 100,
+      "start_date": "2026-11-20T23:00:00+00:00",
+      "end_date": "2026-11-30T22:59:59+00:00",
+      "url": "https://www.lego.com/en-pl/reward/botanical-collection-art-print-wildflower-bouquet-1b09e5i8aa",
+      "first_seen_at": "2026-11-17T13:24:47.467052+00:00",
+      "updated_at": "2026-11-17T13:24:47.467052+00:00"
     }
   }
 }
