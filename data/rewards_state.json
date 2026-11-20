@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at": "2026-11-17T13:24:47.467052+00:00",
+  "last_checked_at": "2026-11-20T11:01:16.043979+00:00",
   "last_update_id": 731644028,
   "chat_ids": [
     "196462642"
@@ -1547,11 +1547,11 @@
       "lifecycle": "STARTING_SOON",
       "in_stock": true,
       "quantity": 100,
-      "start_date": "2026-11-20T23:00:00+00:00",
+      "start_date": "2026-11-26T23:00:00+00:00",
       "end_date": null,
       "url": "https://www.lego.com/en-pl/reward/mini-santas-workshop-x1b09q8nui",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T11:01:16.043979+00:00"
     },
     "aii0ucg8qn": {
       "reward_id": "aii0ucg8qn",
