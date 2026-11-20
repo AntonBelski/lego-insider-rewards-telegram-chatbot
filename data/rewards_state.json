@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at": "2026-11-20T11:01:16.043979+00:00",
+  "last_checked_at": "2026-11-20T23:01:14.479095+00:00",
   "last_update_id": 731644028,
   "chat_ids": [
     "196462642"
@@ -1427,92 +1427,92 @@
       "reward_id": "smnhoknotj",
       "title": "My First Duck",
       "point_value": 250,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/my-first-duck-smnhoknotj",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "b6u4dh5iz4": {
       "reward_id": "b6u4dh5iz4",
       "title": "Treasure Chest",
       "point_value": 600,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/treasure-chest-b6u4dh5iz4",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "5tf9cqmtnt": {
       "reward_id": "5tf9cqmtnt",
       "title": "Game Controller Bag Charm",
       "point_value": 300,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/game-controller-bag-charm-5tf9cqmtnt",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "amaqvuytp2": {
       "reward_id": "amaqvuytp2",
       "title": "Retro M-Tron Explorer",
       "point_value": 2400,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "AVAILABLE",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": null,
       "url": "https://www.lego.com/en-pl/reward/retro-mtron-explorer-amaqvuytp2",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "64f7d5jz3y": {
       "reward_id": "64f7d5jz3y",
       "title": "LEGO® City Wrapping Paper",
       "point_value": 200,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/lego-city-wrapping-paper-64f7d5jz3y",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "1c7be5wocq": {
       "reward_id": "1c7be5wocq",
       "title": "Fantasy Adventure Ride",
       "point_value": 600,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/fantasy-adventure-ride-1c7be5wocq",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "hnzqpokxx9": {
       "reward_id": "hnzqpokxx9",
       "title": "LEGO® DREAMZzz™ Zoey’s Dream Jet Pack Booster",
       "point_value": 250,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": false,
       "quantity": 0,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/lego-dreamzzz-zoeys-dream-jet-pack-booster-hnzqpokxx9",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "5dede5magf": {
       "reward_id": "5dede5magf",
@@ -1531,14 +1531,14 @@
       "reward_id": "48b1e5o2yn",
       "title": "Botanical Collection Art Print – Bouquet",
       "point_value": 400,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/botanical-collection-art-print-bouquet-48b1e5o2yn",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "x1b09q8nui": {
       "reward_id": "x1b09q8nui",
@@ -1557,92 +1557,92 @@
       "reward_id": "aii0ucg8qn",
       "title": "Star Wars™ Pencil Case and stickers",
       "point_value": 500,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/istar-warsi-pencil-case-and-stickers-aii0ucg8qn",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "fdede5vplj": {
       "reward_id": "fdede5vplj",
       "title": "Grey Castle set",
       "point_value": 600,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": true,
       "quantity": 14,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/grey-castle-set-fdede5vplj",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "bp0iuf9aou": {
       "reward_id": "bp0iuf9aou",
       "title": "Play & Display Backdrops",
       "point_value": 200,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/play-display-backdrops-bp0iuf9aou",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "6924e5xphg": {
       "reward_id": "6924e5xphg",
       "title": "Botanical Collection Art Print – Blueprint",
       "point_value": 400,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/botanical-collection-art-print-blueprint-6924e5xphg",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "38b1e5pemp": {
       "reward_id": "38b1e5pemp",
       "title": "Pack of 2 Play Unstoppable trading cards",
       "point_value": 100,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/pack-of-2-play-unstoppable-trading-cards-38b1e5pemp",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "2f741f6cro": {
       "reward_id": "2f741f6cro",
       "title": "Wooden Duck Magnet",
       "point_value": 1000,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/wooden-duck-magnet-2f741f6cro",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "xwoqudmfih": {
       "reward_id": "xwoqudmfih",
       "title": "LEGO® Italian Riviera Notebook",
       "point_value": 800,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/lego-italian-riviera-notebook-xwoqudmfih",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "ac7be5rnn2": {
       "reward_id": "ac7be5rnn2",
@@ -1661,14 +1661,14 @@
       "reward_id": "4c7be5gybo",
       "title": "LEGO® DREAMZzz™ glow-in-the-dark stickers",
       "point_value": 100,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/lego-dreamzzz-glowinthedark-stickers-4c7be5gybo",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-17T04:04:50.666963+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     },
     "p1lxqzp524": {
       "reward_id": "p1lxqzp524",
@@ -1687,14 +1687,14 @@
       "reward_id": "1b09e5i8aa",
       "title": "Botanical Collection Art Print – Wildflower Bouquet",
       "point_value": 400,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "ENDING_SOON",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-20T23:00:00+00:00",
       "end_date": "2026-11-30T22:59:59+00:00",
       "url": "https://www.lego.com/en-pl/reward/botanical-collection-art-print-wildflower-bouquet-1b09e5i8aa",
       "first_seen_at": "2026-11-17T13:24:47.467052+00:00",
-      "updated_at": "2026-11-17T13:24:47.467052+00:00"
+      "updated_at": "2026-11-20T23:01:14.479095+00:00"
     }
   }
 }
