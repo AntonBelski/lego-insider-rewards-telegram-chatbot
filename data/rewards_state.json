@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at": "2026-11-20T23:01:14.479095+00:00",
+  "last_checked_at": "2026-11-24T13:15:39.146019+00:00",
   "last_update_id": 731644028,
   "chat_ids": [
     "196462642"
@@ -1695,6 +1695,19 @@
       "url": "https://www.lego.com/en-pl/reward/botanical-collection-art-print-wildflower-bouquet-1b09e5i8aa",
       "first_seen_at": "2026-11-17T13:24:47.467052+00:00",
       "updated_at": "2026-11-20T23:01:14.479095+00:00"
+    },
+    "vjqfxvuvt2": {
+      "reward_id": "vjqfxvuvt2",
+      "title": "Christmas Colouring Sheets",
+      "point_value": 0,
+      "lifecycle": "STARTING_SOON",
+      "in_stock": true,
+      "quantity": null,
+      "start_date": "2026-11-30T00:00:00+00:00",
+      "end_date": null,
+      "url": "https://www.lego.com/en-pl/reward/christmas-colouring-sheets-vjqfxvuvt2",
+      "first_seen_at": "2026-11-24T13:15:39.146019+00:00",
+      "updated_at": "2026-11-24T13:15:39.146019+00:00"
     }
   }
 }
