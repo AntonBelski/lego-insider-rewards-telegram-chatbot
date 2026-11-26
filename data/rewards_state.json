@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "last_checked_at": "2026-11-24T13:15:39.146019+00:00",
+  "last_checked_at": "2026-11-26T23:01:06.609670+00:00",
   "last_update_id": 731644028,
   "chat_ids": [
     "196462642"
@@ -10,14 +10,14 @@
       "reward_id": "mbtb2fmtjz",
       "title": "LEGO® Ideas Godzilla Poster",
       "point_value": 3000,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "AVAILABLE",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-26T23:00:00+00:00",
       "end_date": null,
       "url": "https://www.lego.com/en-pl/reward/lego-ideas-godzilla-poster-mbtb2fmtjz",
       "first_seen_at": "2026-11-16T21:20:52.660493+00:00",
-      "updated_at": "2026-11-16T21:20:52.660493+00:00"
+      "updated_at": "2026-11-26T23:01:06.609670+00:00"
     },
     "5q0md9rind": {
       "reward_id": "5q0md9rind",
@@ -1544,14 +1544,14 @@
       "reward_id": "x1b09q8nui",
       "title": "Mini Santa's Workshop",
       "point_value": 2400,
-      "lifecycle": "STARTING_SOON",
+      "lifecycle": "AVAILABLE",
       "in_stock": true,
       "quantity": 100,
       "start_date": "2026-11-26T23:00:00+00:00",
       "end_date": null,
       "url": "https://www.lego.com/en-pl/reward/mini-santas-workshop-x1b09q8nui",
       "first_seen_at": "2026-11-17T04:04:50.666963+00:00",
-      "updated_at": "2026-11-20T11:01:16.043979+00:00"
+      "updated_at": "2026-11-26T23:01:06.609670+00:00"
     },
     "aii0ucg8qn": {
       "reward_id": "aii0ucg8qn",
